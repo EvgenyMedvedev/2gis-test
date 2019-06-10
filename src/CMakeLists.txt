@@ -10,5 +10,3 @@ include_directories(${Boost_INCLUDE_DIRS})
 add_executable(2gis-test main.cpp tree.cpp)
 target_link_libraries(2gis-test ${Boost_LIBRARIES})
 target_compile_options(2gis-test PRIVATE -Wpedantic -Wall -Werror)
-
-add_dependencies(2gis-test src)

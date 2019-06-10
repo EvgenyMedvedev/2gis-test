@@ -1,6 +1,0 @@
-/home/user/CLionProjects/2gis-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/user/CLionProjects/2gis-test/cmake-build-debug/CMakeFiles/2gis-test.dir
-/home/user/CLionProjects/2gis-test/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/user/CLionProjects/2gis-test/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
-/home/user/CLionProjects/2gis-test/cmake-build-debug/src/CMakeFiles/src.dir
-/home/user/CLionProjects/2gis-test/cmake-build-debug/src/CMakeFiles/edit_cache.dir

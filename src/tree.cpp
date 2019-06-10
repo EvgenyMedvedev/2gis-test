@@ -18,7 +18,8 @@ ostream& operator<<(ostream& os, const data_t & data) {
 }
 
 void Tree::PrintTree() const {
-	Print(root_, 0);
+	if (root_)
+		Print(root_, 0);
 }
 
 void Tree::Print(const node_ptr & root, int level) const {
