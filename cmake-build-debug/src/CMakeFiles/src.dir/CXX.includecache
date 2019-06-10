@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/CLionProjects/2gis-test/src/tree.cpp
+iostream
+-
+queue
+-
+fstream
+-
+stdexcept
+-
+boost/algorithm/string.hpp
+-
+tree.h
+/home/user/CLionProjects/2gis-test/src/tree.h
+
+/home/user/CLionProjects/2gis-test/src/tree.h
+map
+-
+memory
+-
+variant
+-
+vector
+-
+
